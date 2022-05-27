@@ -1,0 +1,250 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+header {
+  background-image: url(./images/parallax01.jpg);
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  height: 580px;
+  background-size: cover;
+  color: white;
+  font-size: 25px;
+}
+.firstTitle {
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+header i {
+  color: #feea3a;
+}
+.firstSubTitle {
+  color: #feea3a;
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+.firstList {
+  font-size: 18px;
+}
+.firstList i {
+  padding-right: 10px;
+}
+.firstOffer {
+  text-align: right;
+  padding: 90px 50px;
+  line-height: 55px;
+}
+.firstPrice {
+  font-size: 90px;
+  font-weight: lighter;
+}
+.firstOffer button {
+  width: 250px;
+  height: 50px;
+  margin-top: 50px;
+  border-radius: 0px;
+  border: none;
+  background-color: #feea3a;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.527);
+}
+.article-one {
+  background-color: #f2f2f2;
+  height: 800px;
+}
+.article-offer-btn {
+  width: 270px;
+  border-radius: 0px;
+  border: none;
+  background-color: teal;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.527);
+}
+.card {
+  margin-top: 60px;
+  border-radius: 0px;
+  border: none;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.527);
+}
+.card-text {
+  text-align: left;
+  padding-bottom: 30px;
+}
+.card-banner-1 {
+  padding: 10px 20px;
+  background-color: #feea3a;
+}
+.card-price-1 {
+  color: teal;
+}
+.card-price-1 > div {
+  font-size: 40px;
+}
+.cardTitle-1 {
+  font-size: 30px;
+}
+.card-banner-2 {
+  color: white;
+  padding: 10px 20px;
+  background-color: teal;
+}
+.card-price-2 {
+  color: #feea3a;
+}
+.card-price-2 > div {
+  font-size: 40px;
+}
+.card-price-2 > span {
+  color: white;
+}
+.cardTitle-2 {
+  font-size: 30px;
+}
+.card-banner-3 {
+  color: white;
+  padding: 10px 20px;
+  background-color: #f34235;
+}
+.card-price-3 {
+  color: #feea3a;
+}
+.card-price-3 > div {
+  font-size: 40px;
+}
+.card-price-3 > span {
+  color: white;
+}
+.cardTitle-3 {
+  font-size: 30px;
+}
+.article-one-sec2 {
+  padding: 50px 0px;
+}
+.img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+}
+.article-two {
+  height: 350px;
+}
+.article-btn {
+  margin-top: 30px;
+  width: 130px;
+  border-radius: 0px;
+  border: none;
+  background-color: teal;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.527);
+}
+.article-three {
+  height: 400px;
+  background-color: #f2f2f2;
+}
+.teal {
+  color: teal;
+  font-weight: bold;
+}
+.article-three > div {
+  margin-top: 40px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: #feea3a;
+  border-radius: 50%;
+}
+.section-artc3 {
+  padding-top: 50px;
+}
+.article-four {
+  color: white;
+  height: 400px;
+  background-color: teal;
+}
+.article-four .col-3 {
+  margin: 50px 5px 0px 5px;
+  width: 300px;
+}
+.article-four img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.article-four i {
+  color: #feea3a;
+  margin-right: 10px;
+}
+.sub-title {
+  margin-top: 20px;
+  color: #feea3a;
+}
+.article-five {
+  height: 400px;
+  background-color: #f2f2f2;
+}
+.article-five button {
+  margin-top: 10px;
+  padding: 5px 100px;
+  border-radius: 0px;
+  background-color: teal;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.527);
+}
+.btn-list {
+  margin-top: 70px;
+}
+.article-five button:hover {
+  color: black;
+  background-color: white;
+  padding: 5px 100px 5px 90px;
+  border: none;
+  border-left: 10px solid #feea3a;
+}
+.doc > div {
+  color: teal;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.article-six {
+  background-color: #feea3a;
+  height: 200px;
+}
+.search-field {
+  padding-top: 40px;
+}
+.article-six button {
+  border-radius: 0px;
+  background-color: teal;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.527);
+}
+.article-six span {
+  margin-right: 10px;
+}
+footer {
+  height: 350px;
+  background-color: teal;
+  color: #feea3a;
+}
+.footer-links > div {
+  margin-top: 70px;
+}
+h5 {
+  color: white;
+  font-weight: bold;
+}
+.footer-icon i {
+  margin-right: 5px;
+  padding: 10px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.185);
+  border-radius: 50%;
+}
+.contact {
+  color: white;
+  margin-bottom: 10px;
+}
+.contact i {
+  margin-right: 10px;
+  color: #feea3a;
+}
